@@ -22,3 +22,10 @@ and then applying secure cloud design principles to fix it.
 This project is conducted in a personal AWS environment for educational purposes only.
 
 ----
+## Conclusion
+
+This lab demonstrated a real-world cloud security vulnerability (IDOR),
+its exploitation, and a secure design fix.
+
+It emphasizes the importance of authorization, not just authentication,
+in cloud-based systems.
